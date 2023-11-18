@@ -8,3 +8,5 @@ Included:
 * Polybar
 * Neovim (+ plugins)
 * Alacritty
+* Tmux
+* Zsh
