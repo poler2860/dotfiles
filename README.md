@@ -1,5 +1,5 @@
-# dotfiles
-## My dot files for linux
+# Dotfiles
+My dot files for linux
 
 Included:
 * Rofi
